@@ -1,5 +1,6 @@
 # Excel Sales Analytics :
 
+[Dataset Link](https://drive.google.com/drive/folders/1Th8PtFWISrvusMEm3-JFhwNFctn3AtXB?usp=drive_link)
 - **Project objective:** 
 
     **1.** Provide a comprehensive overview of the company's sales performance, examining key metrics, identifying trends, and uncovering actionable insights. By meticulously transforming raw data through 
