@@ -1,6 +1,5 @@
 # Excel Sales Analytics :
 
-[Dataset Link](https://drive.google.com/drive/folders/1Th8PtFWISrvusMEm3-JFhwNFctn3AtXB?usp=drive_link)
 - **Project objective:** 
 
     **1.** Provide a comprehensive overview of the company's sales performance, examining key metrics, identifying trends, and uncovering actionable insights. By meticulously transforming raw data through 
@@ -27,6 +26,22 @@
 
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 - **Operations Performed :** Through the power of Power Query, we seamlessly integrate data from multiple sources, harmonizing diverse datasets into a unified framework. Pivot Tables empower us to dynamically explore and visualize sales data, enabling us to gain deeper insights into product performance, regional trends, customer behavior, and more. With the advanced capabilities of Power Pivot, we elevate our analysis to the next level, enabling sophisticated calculations, aggregations, and data modeling. By harnessing the expressive capabilities of DAX Functions, we unlock the full potential of our data, generating actionable insights and predictive analytics.
+
+## Dataset Info :
+
+**[Dataset Link](https://drive.google.com/drive/folders/1Th8PtFWISrvusMEm3-JFhwNFctn3AtXB?usp=drive_link)**
+
+- **Dimensions :**
+The Dimensions Folder in the Drive has 4 different Excel files.
+1. **dim_customer**
+2. **dim_market**
+3. **dim_product**
+4. **fact_sales_monthly**
+
+- **Targets :**
+  The Targets Folder in the Drive has a file called **ns_targets_2021**.
+  This file mainly holds the data about the Company's targets for the year 2021.
+
 
 
 ## Technical & Soft Skills:
