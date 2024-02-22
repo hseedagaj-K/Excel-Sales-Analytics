@@ -33,13 +33,13 @@
 
 - **Dimensions :**
 The Dimensions Folder in the Drive has 4 different Excel files.
-1. **dim_customer**
-2. **dim_market**
-3. **dim_product**
-4. **fact_sales_monthly**
+1. **dim_customer** - Holds the data about customer_code, name, Platform.
+2. **dim_market** - Holds data about market, region and sub_zone.
+3. **dim_product** - Holds data about product_code, Division and Segment.
+4. **fact_sales_monthly** - Holds data about the date, Customer and Qty.
 
 - **Targets :**
-  The Targets Folder in the Drive has a file called **ns_targets_2021**.
+  The Targets Folder in the Drive has a file called **ns_targets_2021** - market, date and the Target.6
   This file mainly holds the data about the Company's targets for the year 2021.
 
 
