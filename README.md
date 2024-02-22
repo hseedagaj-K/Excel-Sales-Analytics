@@ -58,3 +58,6 @@ The Dimensions Folder in the Drive has 4 different Excel files.
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
+
+![image](https://github.com/hseedagaj-K/Excel-Sales-Analytics/assets/139363976/1a370148-7705-4ded-9f87-efe6607b25bc)
+
