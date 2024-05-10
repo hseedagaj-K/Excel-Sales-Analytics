@@ -1,4 +1,5 @@
 # Excel Sales Analytics :
+This project involved performing a detailed analysis of sales data  by harnessing the capabilities of Excel's Power Query, Pivot Tables, and Power Pivot. Through the integration of data from four distinct CSV datasets, actionable insights were derived to aid informed decision-making processes, ultimately facilitating strategic business improvements.
 
 - **Project objective:** 
 
